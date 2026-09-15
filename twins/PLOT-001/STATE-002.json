@@ -1,0 +1,18 @@
+{
+  "spec": "regentwin/v0",
+  "twin_id": "CD-PLOT-001",
+  "sequence": 2,
+  "observed_at": "2026-10-15T00:00:00Z",
+  "previous_state_hash": "sha256:2fc0075ef162ef39eb767301b8bd53f3e17856c1500d6d8bbd2ed25cbad58e26",
+  "state": {
+    "soil_carbon_percent": 2.14,
+    "tree_cover_percent": 12.8
+  },
+  "evidence": [
+    {
+      "evidence_id": "EVD-0001",
+      "type": "field_observation"
+    }
+  ],
+  "state_hash": "sha256:1a6d90822fead1b7c1c7ea88ef05d58e0718856724d9ce48de10204119f3c279"
+}
