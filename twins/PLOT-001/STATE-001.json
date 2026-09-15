@@ -1,0 +1,13 @@
+{
+  "spec": "regentwin/v0",
+  "twin_id": "CD-PLOT-001",
+  "sequence": 1,
+  "observed_at": "2026-09-15T00:00:00Z",
+  "previous_state_hash": null,
+  "state": {
+    "soil_carbon_percent": 2.1,
+    "tree_cover_percent": 12.0
+  },
+  "evidence": [],
+  "state_hash": "sha256:2fc0075ef162ef39eb767301b8bd53f3e17856c1500d6d8bbd2ed25cbad58e26"
+}
